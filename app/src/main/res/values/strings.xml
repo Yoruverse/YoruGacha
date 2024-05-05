@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">YoruGacha</string>
+    <string name="collection">Coleccion</string>
+    <string name="profile">Perfil</string>
+    <string name="home">Inicio</string>
+    <string name="button">Prueba tu suerte</string>
+    <string name="image_desc">Imagen de personaje</string>
+    <string name="logo_desc">Logo de Yoruverse</string>
+    <string name="rerroll">Tirar otra vez</string>
+    <string name="pulls_text">%d/10</string>
+</resources>
